@@ -16,9 +16,11 @@ Click on the typing bar and wait 10 seconds.
 ・Works on Instagram.
 
 ・Works on Discord.
+***
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/839459516926918688/984201831464960091/ezgif.com-gif-maker.gif"/></p>
 
+***
 # Note:
 Use it but please give credits to author.
 
